@@ -1,0 +1,6 @@
+## $Id$
+
+preinstall:
+.PHONY: preinstall
+
+PROJECT_TOOLS = $(PROJECT_RELEASE)/build-tools
